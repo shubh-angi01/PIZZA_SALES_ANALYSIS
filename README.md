@@ -71,7 +71,7 @@ This project analyzes pizza sales data to uncover key business insights such as 
 ## 📎 How to View  
 
 1. Clone/download this repository.
-2. Open `PowerBI_Dashboard.pbix` in **Power BI Desktop**  
+2. Open PIZZA_SALES_ANALYSIS.pbix in **Power BI Desktop**  
 3. Use the slicers to explore interactive insights.  
 
 ---
